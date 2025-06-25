@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercicio_01/exercicio_01.iml" filepath="$PROJECT_DIR$/exercicio_01/exercicio_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_02/exercicio_02.iml" filepath="$PROJECT_DIR$/exercicio_02/exercicio_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_03/exercicio_03.iml" filepath="$PROJECT_DIR$/exercicio_03/exercicio_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/lohran_mendes_DR1_AT.iml" filepath="$PROJECT_DIR$/lohran_mendes_DR1_AT.iml" />
     </modules>
   </component>
